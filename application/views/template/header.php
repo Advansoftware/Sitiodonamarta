@@ -5,11 +5,13 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Traga toda sua familiar para passar um fim de semana no Sitio dona marta, Comidas tipicas da região e muito mais! acesse nosso site e saiba mais.">
+    <meta name="author" content="Advansoftware">
 
-    <title>Creative - Start Bootstrap Theme</title>
 
+    <title>Restaurante  e Pousada Sitio Dona Marta</title>
+
+    <link rel="canonical" href="http://sitiodonamarta.com.br/">
     <!-- Bootstrap core CSS -->
     <link href="<?=base_url()?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -23,6 +25,7 @@
 
     <!-- Custom styles for this template -->
     <link href="<?=base_url()?>assets/css/creative.min.css" rel="stylesheet">
+    <link href="<?=base_url()?>assets/css/css.css" rel="stylesheet">
 
 </head>
 
@@ -31,23 +34,23 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="<?=base_url()?>contents/img/logo.png" class="logo"></a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                    <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+                    <a class="nav-link js-scroll-trigger" href="#services">Serviços</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+                    <a class="nav-link js-scroll-trigger" href="#portfolio">Galeria</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                    <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
                 </li>
             </ul>
         </div>
