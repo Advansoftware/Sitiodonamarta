@@ -44,29 +44,29 @@
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fas fa-4x fa-utensils text-primary mb-3 sr-icon-1"></i>
-              <h3 class="mb-3">Sturdy Templates</h3>
-              <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
+              <h3 class="mb-3">Restaurante</h3>
+              <p class="text-muted mb-0"></p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fas fa-4x fa-bed text-primary mb-3 sr-icon-2"></i>
-              <h3 class="mb-3">Ready to Ship</h3>
-              <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
+              <h3 class="mb-3">Pousada</h3>
+              <p class="text-muted mb-0"></p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-              <h3 class="mb-3">Up to Date</h3>
-              <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
+              <i class="fas fa-4x fa-bicycle text-primary mb-3 sr-icon-3"></i>
+              <h3 class="mb-3">Lazer</h3>
+              <p class="text-muted mb-0"></p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
-              <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-              <h3 class="mb-3">Made with Love</h3>
-              <p class="text-muted mb-0">You have to make your websites with love these days!</p>
+              <i class="fas fa-4x fa-leaf text-primary mb-3 sr-icon-4"></i>
+              <h3 class="mb-3">Ecológica</h3>
+              <p class="text-muted mb-0"></p>
             </div>
           </div>
         </div>
@@ -173,8 +173,8 @@
 
     <section class="bg-dark text-white">
       <div class="container text-center">
-        <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-        <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
+        <h2 class="mb-4">Faça sua reserva aqui!</h2>
+        <a class="btn btn-light btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Reservar Agora!</a>
       </div>
     </section>
 
