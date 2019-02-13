@@ -5,11 +5,21 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Traga toda sua familiar para passar um fim de semana no Sitio dona marta, Comidas tipicas da região e muito mais! acesse nosso site e saiba mais.">
+    <meta name="description" content="Traga toda sua familiar para passar um fim de semana no Sitio dona marta, Comidas tipicas da região e muito mais! acesse nosso site e saiba mais. hotel fazenda em minas gerais MG">
     <meta name="author" content="Advansoftware">
+    <meta property="og:locale" content="pt_BR">
+	<meta property="og:url" content="http://sitiodonamarta.com.br">
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Restaurante e Pousada Sitio Dona Marta">
+	<meta property="og:site_name" content="Sitio Dona Marta">
+	<meta property="og:description" content="Traga toda sua familiar para passar um fim de semana no Sitio dona marta, Comidas tipicas da região e muito mais! acesse nosso site e saiba mais.">
+	<meta property="og:image" content="<?=base_url()?>contents/img/portfolio/fullsize/1.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="960"> 
+	<meta property="og:image:height" content="600">
 
 
-    <title>Restaurante  e Pousada Sitio Dona Marta</title>
+    <title>Sítio Dona Marta em minas gerais MG</title>
 
     <link rel="canonical" href="http://sitiodonamarta.com.br/">
     <!-- Bootstrap core CSS -->

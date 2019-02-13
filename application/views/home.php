@@ -19,11 +19,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">A Pousada</h2>
+            <h2 class="section-heading text-white">O Sitio dona marta</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">O Sitio Dona Marta possui quatro chalés e uma casa para acomodar até 25 pessoas.
                 A Casa do Meio fica próximo a área coletiva, ideal para eventos sociais com a família ou em grupo de amigos. O chalé do Índio, mais afastado, está preparado para receber um casal e ate duas crianças ou adolescentes com conforto e a privacidade que merecem.
-                A casa do lago acomoda um casal com até uma crianças. O Chalé da Paineira e o Chalé da Araucária acomodam até três pessoas cada. </p>
+                A casa do lago acomoda um casal com até uma crianças. O Chalé da Paineira e o Chalé da Araucária acomodam até três pessoas cada.</p>
             <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Começar!</a>
           </div>
         </div>
@@ -51,7 +51,7 @@
           <div class="col-lg-3 col-md-6 text-center">
             <div class="service-box mt-5 mx-auto">
               <i class="fas fa-4x fa-bed text-primary mb-3 sr-icon-2"></i>
-              <h3 class="mb-3">Pousada</h3>
+              <h3 class="mb-3">Pousada / Hotel</h3>
               <p class="text-muted mb-0"></p>
             </div>
           </div>
@@ -145,7 +145,7 @@
                       Fotos
                   </div>
                   <div class="project-name">
-                    Natureza
+                    hotel fazenda em minas gerais
                   </div>
                 </div>
               </div>
@@ -160,7 +160,7 @@
                     Fotos
                   </div>
                   <div class="project-name">
-                    Natureza
+                    hotel fazenda mg
                   </div>
                 </div>
               </div>
@@ -175,6 +175,7 @@
       <div class="container text-center">
         <h2 class="mb-4">Faça sua reserva aqui!</h2>
         <a class="btn btn-light btn-xl sr-button" href="https://api.whatsapp.com/send?phone=553588026462&text=Olá, gostaria de fazer uma reserva">Reservar Agora!</a>
+          <h4 class="mt-4 text-faded light text-white">Pousada em Brazópolis, Faça sua visita!</h4>
       </div>
     </section>
 
